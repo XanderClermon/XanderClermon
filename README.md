@@ -51,18 +51,23 @@ Hello! 👋 I'm a junior developer passionate about creating efficient and elega
 <div align="center">
 
 
-### 🎯 Current Projects / Goals
+### Current Projects
 
 </div>
 
--   **Deepening Python Knowledge:** Learning asynchronous programming (`asyncio`), frameworks (FastAPI, Django), and best practices.
--   **Learning Rust:** Understanding ownership, borrowing, and developing system utilities.
--   **Open Source:** Contributing to projects I find interesting and creating my own.
+-   **NovaLab_V4:** This project is for the college laboratory. The project is a backend web application on FastAPI. It also features machine learning models trained using gradient boosting technology. The project is currently on hold.
+-   **KeyVault:** This is a utility for creating a secure directory of files that can only be decrypted using a key located on an external storage device. .
+-   **NetHawk:** A console UNIX utility for checking network ports, it also checks the process running on the port by checking the banner.
 -   **Portscan:** A modern asynchronous port scanner written in Python using `asyncio`, `typer`, and `rich`.
 
 ---
 
 <div align="center">
+
+### My Goals
+
+<div align="center">
+
 
 ### 📈 Activity
 
