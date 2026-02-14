@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# 👋 Hi, I'm Xander Clairmon!
+# 👋 Hi, I'm Xander Clermon!
 
 </div>
 
