@@ -42,9 +42,9 @@ Hello! 👋 I'm a junior developer passionate about creating efficient and elega
 
 <!-- Example Widgets: -->
 <!-- Replace ChouetteSolaire with XanderClairmon -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XanderClairmon&layout=compact&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=XanderClermon&layout=compact&theme=tokyonight)
 <!-- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=XanderClairmon&show_icons=true&theme=tokyonight) -->
-![GitHub Streak](https://streak-stats.demolab.com/?user=XanderClairmon&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=XanderClermon&theme=tokyonight)
 
 </div>
 
@@ -83,7 +83,7 @@ Hello! 👋 I'm a junior developer passionate about creating efficient and elega
 
 <div align="center">
   <!-- GitHub Activity Graph -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XanderClairmon&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=XanderClermon&theme=tokyo-night&hide_border=true" />
 </div>
 
 ---
