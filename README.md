@@ -50,19 +50,6 @@ Hello! 👋 I'm a junior developer passionate about creating efficient and elega
 
 <div align="center">
 
-### 📫 How to Reach Me
-
-</div>
-
-<div align="center">
-
-<!-- Replace placeholder@example.com with your real email if you want -->
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:placeholder@example.com)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your_invite_link) <!-- Replace with your link -->
-<!-- Add other links if available -->
-</div>
-
-<div align="center">
 
 ### 🎯 Current Projects / Goals
 
